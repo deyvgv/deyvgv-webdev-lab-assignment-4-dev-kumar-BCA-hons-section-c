@@ -22,7 +22,7 @@ HTML
 
 JavaScript (Basic code)
 
-How to Run It
+## How to Run It
 
 It is very easy to start!
 
